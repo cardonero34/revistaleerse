@@ -1,0 +1,199 @@
+%!Adobe-FontList 1.25
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Crimson-Bold
+FamilyName:Crimson
+StyleName:Bold
+FullName:Crimson Bold
+MenuName:Crimson
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\Crimson-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:155280
+FileModTime:1750880302
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Crimson Bold
+NameArray:0,Win,1,Crimson
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Crimson-Roman
+FamilyName:Crimson
+StyleName:Roman
+FullName:Crimson Roman
+MenuName:Crimson
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\Crimson-Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:233564
+FileModTime:1750880302
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Crimson Roman
+NameArray:0,Win,1,Crimson
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:73332
+FileModTime:1758066370
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Italic
+FamilyName:Lato
+StyleName:Italic
+FullName:Lato Italic
+MenuName:Lato
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\Lato-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:75792
+FileModTime:1758066370
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:75152
+FileModTime:1758066370
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1776782882
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionVariableConcept-Italic
+FamilyName:Minion Variable Concept
+StyleName:Italic
+FullName:Minion Variable Concept Italic
+MenuName:Minion Variable Concept
+FamilyPrefix:MinionConceptItalic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\MinionVariableConcept-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:CFF2VariableFont
+FileLength:209728
+FileModTime:1776782882
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Minion Variable Concept
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionVariableConcept-Roman
+FamilyName:Minion Variable Concept
+StyleName:Roman
+FullName:Minion Variable Concept Roman
+MenuName:Minion Variable Concept
+FamilyPrefix:MinionConceptRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\emanu\Desktop\FinalRevistaTex-1\Carpeta FinalRevista Leerse\Document fonts\MinionVariableConcept-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:CFF2VariableFont
+FileLength:298864
+FileModTime:1776782882
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Minion Variable Concept
+%EndFont
+
